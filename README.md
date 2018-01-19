@@ -1,2 +1,4 @@
-Example repo
-     This is an example repository for testing purposes. 
+# Example repo
+     
+This is an example repository for testing purposes. 
+
