@@ -1,2 +1,2 @@
-Example repo                                                    11:06:35
+Example repo
      This is an example repository for testing purposes. 
